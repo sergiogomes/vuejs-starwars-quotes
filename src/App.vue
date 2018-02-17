@@ -22,12 +22,15 @@
         data: function() {
             return {
                 quotes: [
-                    'May the force be with you',
-                    'I have the high ground',
-                    'I am your father',
-                    'Every thing is going as planned',
-                    'I find your lack of faith disturbing',
-                    'I have a bad feeling about this'
+                    'May the force be with you.',
+                    'I have the high ground.',
+                    'I am your father.',
+                    'Every thing is going as planned.',
+                    'I find your lack of faith disturbing.',
+                    'I have a bad feeling about this.',
+                    'You were the Chosen One! You were supposed to destroy the Sith, not join them. You were supposed to bring balance to the force, not leave it in darkness.',
+                    'Leia - I love you.',
+                    'Han - I know.'
                 ],
                 maxQuotes: 10
             }
