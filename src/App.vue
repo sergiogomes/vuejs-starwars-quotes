@@ -25,7 +25,9 @@
                     'May the force be with you',
                     'I have the high ground',
                     'I am your father',
-                    'Every thing is going as planned'
+                    'Every thing is going as planned',
+                    'I find your lack of faith disturbing',
+                    'I have a bad feeling about this'
                 ],
                 maxQuotes: 10
             }
